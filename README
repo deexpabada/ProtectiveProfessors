@@ -1,0 +1,12 @@
+Instructions on how to run program:
+
+1. Install networkx using pip with the following in the command prompt:
+pip install networkx
+2. Install matplotlib to draw the graph using the following in the command prompt:
+pip install matplotlib
+3. Run the main.py file. This file includes both two and three couple examples.
+You can manipulate the number of iterations to change the depth of the tree.
+It will print the number of nodes the DFS function has traversed to find the solution node.
+4. To create a visual representation of the graph, uncomment the indicated lines in the main.py function.
+
+
